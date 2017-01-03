@@ -25,10 +25,6 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/audio/audio_platform_info_extcodec.xml:system/etc/audio_platform_info_extcodec.xml \
     $(LOCAL_PATH)/audio/mixer_paths.xml:system/etc/mixer_paths_wcd9326.xml
 
-# VR
-PRODUCT_PACKAGES += \
-    vr.msm8952
-
 # Camera
  PRODUCT_PACKAGES += \
      Camera2
