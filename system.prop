@@ -12,3 +12,6 @@ voice.voip.conc.disabled=true
 persist.radio.cs_srv_type=1
 persist.radio.force_on_dc=true
 persist.radio.redir_party_num=0
+
+# OTA
+cm.updater.uri=http://minzlineage.ddns.net/LineageOTA2/api
