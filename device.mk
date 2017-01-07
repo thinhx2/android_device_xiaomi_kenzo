@@ -54,7 +54,7 @@ $(call inherit-product, device/xiaomi/msm8956-common/msm8956.mk)
 
 # VR
  PRODUCT_PACKAGES += \
-     vr.msm8952
+     vr.msm8956
 
 # Vulkan
 PRODUCT_COPY_FILES += \
