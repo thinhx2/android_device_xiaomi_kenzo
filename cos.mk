@@ -27,6 +27,7 @@ PRODUCT_NAME := cos_kenzo
 PRODUCT_MANUFACTURER := Xiaomi
 PRODUCT_MODEL := Redmi Note 3 Goodix FP
 TARGET_VENDOR := Xiaomi
+COS_RELEASE = true
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
