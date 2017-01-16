@@ -25,6 +25,4 @@ ro.hwui.text_small_cache_width=1024
 ro.hwui.text_small_cache_height=1024
 ro.hwui.text_large_cache_width=2048
 
-
-# OTA
-cm.updater.uri=http://minzlineage.ddns.net/LineageOTA2/api
+ro.product.device=kenzo
